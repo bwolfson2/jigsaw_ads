@@ -10,6 +10,6 @@ The files are described below:
 - known_identity_df.csv -- Processed Dataframe for Nutrition_Label.ipynb. Code to generate in nutrition_label_builder.ipynb
 - nutrition_label_builder.ipynb -- Step by step build process of Nutrition_Label.ipynb
 - submission.csv -- The original ADS results
-- submission_similar_comments_analysis.ipynb -- LI Semantic analysis
+- latent_semantics_indexing_analysis.ipynb -- LI Semantic analysis
 - summary_df.csv -- Processed Dataframe for Nutrition_Label.ipynb. Code to generate in nutrition_label_builder.ipynb
 - test_private_expanded.csv -- True target values (of the Kaggle competition) used for analysis
